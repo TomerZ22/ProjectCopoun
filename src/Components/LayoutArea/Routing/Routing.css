@@ -1,0 +1,25 @@
+.Routing>*{
+    height: fit-content;
+    min-height: 610px;
+}
+
+.Routing .form{
+    position: absolute;
+    left:40vw;
+    right:40vw;
+    top:5vw;
+    vertical-align: middle;
+    padding: 10px;
+    width: 20vw;
+    text-align: center;	
+    border: lightgray solid 1px;
+}
+
+.Routing .form>*{
+    padding-top: 5px;
+}
+
+.Routing .Card{
+    padding: 20px;
+    display: inline-block;
+}

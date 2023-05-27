@@ -1,0 +1,15 @@
+.pageNotFound{
+	padding-top: 100px;
+}
+
+.pageNotFound>.label{
+	text-align: center;
+	font-size: 200px;
+	margin: 10px;
+}
+
+.pageNotFound>.text{
+	text-align: center;
+	font-size: 60px;
+	margin: 10px;
+}

@@ -1,0 +1,7 @@
+.CompanyCouponPage {
+	margin: 15px;
+	display: grid;
+	grid-template-rows: 70%, 20%, 10%;
+
+    top:5vw;
+}

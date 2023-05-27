@@ -1,0 +1,22 @@
+.Header {
+    display: grid;
+    grid-template-columns: 35% 30% 35%;
+    height: 35px;
+    background-color: white;
+    padding: 0.2em;
+}
+
+.Header .title {
+    padding-top: 5px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.Header>.top-right-button-block {
+    width: fit-content;
+}
+
+.title {
+    font-family: 'Times New Roman', Times, serif;
+}
